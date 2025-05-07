@@ -1,12 +1,28 @@
 # MBS Coding Classes
 
-🎓 Welcome to **MBS Coding**, your one-stop hub for learning full-stack web development in Hindi!  
-We provide beginner-friendly tutorials, real-world projects, and complete coding courses.
+🎓 Welcome to **MBS Coding** – Your Ultimate Programming & Web Development Hub! 🚀  
+I simplify complex coding concepts with easy-to-understand explanations in **Hindi** so that anyone can start coding confidently.
 
-🚀 Master technologies like **HTML, CSS, JavaScript, React, Node.js, and MongoDB** — step by step.
+### 👨‍💻 What You'll Learn:
+- ✅ **Full Stack Web Development** – From frontend to backend, build real-world web apps with MERN Stack.
+- ✅ **Data Structures & Algorithms (DSA)** – Sharpen your problem-solving and ace coding interviews.
+- ✅ **Git & GitHub** – Master version control and collaborate like a pro.
+- ✅ **Web Design & UI/UX** – Create stunning and responsive websites.
+- ✅ **Real-World Projects** – Learn by doing with hands-on portfolio-ready projects.
 
-📺 Watch our latest course:  
-👉 [YouTube Playlist](https://www.youtube.com/@MBSCoding/playlists)
+I believe programming should be **fun and accessible** for everyone. Whether you're a beginner or advanced learner, MBS Coding is here to guide you every step of the way.
 
-💻 Build projects • Learn by doing • Grow as a developer  
-📌 Subscribe & follow to stay updated!
+---
+
+📺 **Watch our courses**:  
+▶️ [YouTube Playlist](https://www.youtube.com/@MBSCoding/playlists)
+
+📘 **Code & Notes**:  
+💻 [GitHub Repositories](https://github.com/mbscodingclasses)
+
+📸 **Follow for updates & tips**:  
+📘 [Facebook Page](https://m.facebook.com/mbscoding)
+
+---
+
+🎯 **Subscribe now and start your coding journey with MBS Coding!** 🚀

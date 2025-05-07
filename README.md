@@ -6,7 +6,7 @@ We provide beginner-friendly tutorials, real-world projects, and complete coding
 🚀 Master technologies like **HTML, CSS, JavaScript, React, Node.js, and MongoDB** — step by step.
 
 📺 Watch our latest course:  
-👉 [YouTube Playlist](https://www.youtube.com/playlist)
+👉 [YouTube Playlist](https://www.youtube.com/@MBSCoding/playlists)
 
 💻 Build projects • Learn by doing • Grow as a developer  
 📌 Subscribe & follow to stay updated!

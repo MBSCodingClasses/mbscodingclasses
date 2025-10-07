@@ -17,12 +17,6 @@ I believe programming should be **fun and accessible** for everyone. Whether you
 📺 **Watch our courses**:  
 ▶️ [YouTube Playlist](https://www.youtube.com/@MBSCoding/playlists)
 
-📘 **Code & Notes**:  
-💻 [GitHub Repositories](https://github.com/mbscodingclasses)
-
-📸 **Follow for updates & tips**:  
-📘 [Facebook Page](https://m.facebook.com/mbscoding)
-
 ---
 
-🎯 **Subscribe now and start your coding journey with MBS Coding!** 🚀
+
